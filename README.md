@@ -1,7 +1,7 @@
-# Basic Project
-## Basic Project Structure
+# Arrays Project
+## Arrays Project Structure
 
-*Default Structure for A Basic Project*
+*Default Structure for A Arrays Project*
 
 **Java 8**
 
